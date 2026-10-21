@@ -1,0 +1,9 @@
+{
+  "name": "project-notes",
+  "version": "0.1.0",
+  "description": "A per-project Notes / To Do pane beside the chat, opened with /todo (or /notes) and a keyboard chord",
+  "author": { "name": "MrPr0F1L3z" },
+  "license": "MIT",
+  "repository": "https://github.com/MrPr0F1L3z/ClaudeNotes",
+  "types": "./types/index.d.ts"
+}
